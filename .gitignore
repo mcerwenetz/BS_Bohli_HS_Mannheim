@@ -86,6 +86,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+*/Debug/*
 
 # External tool builders
 .externalToolBuilders/

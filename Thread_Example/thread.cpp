@@ -16,7 +16,7 @@ void* callback(void *vargb) {
 	return NULL;
 }
 
-int main(int argc, char **argv) {
+void thread(){
 	pthread_t thread_id;
 	printf("Before Thread\n");
 	pthread_create(&thread_id, NULL, callback, NULL);

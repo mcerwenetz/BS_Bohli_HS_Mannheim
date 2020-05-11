@@ -1,0 +1,1 @@
+Zeiten.o: ../Zeiten.cpp
